@@ -1,6 +1,6 @@
 public class TestTri{
 	public static void main(String args[]){
-		int n = 41;//程序改进，可自定义三角行数
+		int n = 35;//程序改进，可自定义三角行数
 		if(n <= 40){
 			for(int i = 1;i <= n;i++){
 				for(int j = n;j >= i+1;j--){
